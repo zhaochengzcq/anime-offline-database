@@ -1,9 +1,9 @@
 name: Housekeeping
 
 on:
-  push:
-    branches:
-      - master
+  release:
+    types:
+      - published
 
 jobs:
   housekeeping:
