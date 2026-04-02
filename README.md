@@ -1,4 +1,4 @@
-[![License: ODbL-1.0](https://img.shields.io/badge/license-ODbL--1.0-orange)](https://github.com/manami-project/anime-offline-database/blob/2026-13/LICENSE)
+[![License: ODbL-1.0](https://img.shields.io/badge/license-ODbL--1.0-orange)](https://github.com/manami-project/anime-offline-database/blob/2026-14/LICENSE)
 
 # anime-offline-database
 The purpose of this repository is to create a dataset containing anime metadata aggregated by different anime metadata providers (such as myanimelist.net, anidb.net, kitsu.app and more) and allow cross-references between those metadata providers. This dataset is supposed to be used by and created for [manami](https://github.com/manami-project/manami).
@@ -11,22 +11,22 @@ The purpose of this repository is to create a dataset containing anime metadata 
 > which contain the files for that specific week.
 
 ## Statistics
-Update **week 13 [2026]**
+Update **week 14 [2026]**
 
-The dataset consists of **40787** entries _(66% reviewed)_ composed of:
+The dataset consists of **40921** entries _(66% reviewed)_ composed of:
 
 | Number of entries | Metadata provider |
 |-------------------|-------------------|
-| 30165 | [myanimelist.net](https://myanimelist.net) |
-| 26661 | [anime-planet.com](https://anime-planet.com) |
-| 21933 | [kitsu.app](https://kitsu.app) |
-| 20659 | [anisearch.com](https://anisearch.com) |
-| 20453 | [anilist.co](https://anilist.co) |
-| 14355 | [simkl.com](https://simkl.com) |
-| 14355 | [animecountdown.com](https://animecountdown.com) |
-| 14347 | [anidb.net](https://anidb.net) |
-| 12479 | [animenewsnetwork.com](https://animenewsnetwork.com) |
-| 12143 | [livechart.me](https://livechart.me) |
+| 30226 | [myanimelist.net](https://myanimelist.net) |
+| 26683 | [anime-planet.com](https://anime-planet.com) |
+| 21960 | [kitsu.app](https://kitsu.app) |
+| 20697 | [anisearch.com](https://anisearch.com) |
+| 20475 | [anilist.co](https://anilist.co) |
+| 14375 | [simkl.com](https://simkl.com) |
+| 14375 | [animecountdown.com](https://animecountdown.com) |
+| 14365 | [anidb.net](https://anidb.net) |
+| 12508 | [animenewsnetwork.com](https://animenewsnetwork.com) |
+| 12169 | [livechart.me](https://livechart.me) |
 
 
 ## Files
